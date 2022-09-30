@@ -10,7 +10,7 @@ Install from https://nodejs.org/en/download/ if you haven't got it already and m
 
 Then once you've got the schaeffer21 code (git clone or download), cd into the directory and run `npm install` to download the modules.
 
-If you may you can edit `server.js` to change the default port value (var PORT = '8081')
+If you want you can edit `server.js` to change the default port value (var PORT = '8081')
 
 Then run `node server.js` and open `http://localhost:8081` on a web browser. Then select any song in the drop down menu.
 
