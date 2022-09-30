@@ -8,7 +8,7 @@ It is adapted from MT5 - A multitrack HTML5 Player (https://github.com/squallooo
 In order to run it, you will need nodeJS and some node modules. 
 Install from https://nodejs.org/en/download/ if you haven't got it already and make sure you choose npm as the package manager during the installation.
 
-Then once you've got the schaeffer21 code (git clone or download), cd into the directory and run `npm install` to download the modules.
+Then once you've got the schaeffer21 code (git clone or download), open a command prompt and cd into the directory and run `npm install` to download the modules.
 
 If you want you can edit `server.js` to change the default port value (var PORT = '8081')
 
