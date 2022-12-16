@@ -1,7 +1,7 @@
-Schaeffer 21 ~ Spatialiser Song Generator
+Schaeffer XXI ~ Spatialiser Song Generator
 ===========
 
-Spatialiser Song Generator allows you to generate metadata for playing multichannel songs on the Schaeffer 21 Sound Spatializer (https://sonalux.co.uk/schaeffer21)
+Spatialiser Song Generator allows you to generate metadata for playing multichannel songs on the Schaeffer XXI Sound Spatializer (https://sonalux.co.uk/schaefferxxi)
 
 It is adapted from MT5 - A multitrack HTML5 Player (https://github.com/squallooo/MT5)
 
